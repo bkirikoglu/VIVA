@@ -110,8 +110,8 @@ abc4 <- inner_join(abc3, dat6)
 write.csv(abc4, "WorldBank_data4Tableau2.csv")
 ```
 
-###Part 4
-##### Explore the data set in Tableau
+###Part 4 -Explore the data set in Tableau
+#####My Tableau work is on github the file name is Book1DATA
 
 
 ###Findings
@@ -124,5 +124,10 @@ write.csv(abc4, "WorldBank_data4Tableau2.csv")
 ##### Tech behaved similiar to Fuel. In 1998 the industry was immune to the recession and in 2008 it was strong worldwide except in the US.
 
 ###Challenges & Comments
-#####Data is very unorginized and even when it is it might now be how you want it to be. Although initialy I wanted to make a project about Sports the data was overwhelmingly unorginized so I turned to the World Bank Database which I knew it be easier to extract however I encounter many struggles there as the data was not the way I wanted it at all after stuggling with excel, google refine and tableau for a long time I had to find an api for the WorldBank Database in R loaded all the data from there merged it and exported into tableau where I did my discovries. So definetly used various skills on this projects such as data mining, data analytics, and data visualization. 
+#####Data is very unorginized and even when it is it might now be how you want it to be. Although initialy I wanted to make a project about Sports the data was overwhelmingly unorginized so I turned to the World Bank Database which I knew it be easier to extract however I encountered many struggles there as well, as the data was not the way I wanted it at all after stuggling with excel, google refine and tableau for a long time I had to find an api for the WorldBank Database in R loaded all the data from there merged it and exported into tableau where I did my discoveries. Overall I definetly used various skills on this projects such as data mining, data analytics, and data visualization. 
+### Review
+#####If I were to improve upon this project I'd definetly tackle the questions more using scatter plots and maybe add in some heat maps and demonstrate changes over time in different regions. The data is quite rich and many conclusion can be made from it and a variety of different plots and analytic tools can be applied to examine further. 
 
+###Exibit A of the unorganized data initially
+![](123.jpg) 
+![](1234.jpg)
